@@ -1,0 +1,8 @@
+{
+  "name": "Just Do It",  
+  "short_name": "Just Do It",
+  "lang": "en-US",
+  "start_url": "./",
+  "display": "standalone",
+  "theme_color": "orange"
+}
