@@ -1,8 +1,6 @@
-Simple Web App With Virtual Reality 
+Virtual Reality:
+https://basicvirtualreality.firebaseapp.com
 
-Download and then run on laptop
-
-
-Note:Prefer Firefox
+Note:Prefer Mobile for best ecperience.
 
 Thanks.. :)
